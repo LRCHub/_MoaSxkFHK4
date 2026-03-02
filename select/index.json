@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "DANCING PARANOIA",
+  "base_artist": "GYROAXIA",
+  "createdAt": "2026-03-02T12:50:49.497652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DANCING PARANOIA",
+      "artist": "GYROAXIA",
+      "has_synced": true,
+      "path": "select/01_DANCING_PARANOIA_GYROAXIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DANCING PARANOIA",
+      "artist": "GYROAXIA",
+      "has_synced": false,
+      "path": "select/pl_01_DANCING_PARANOIA_GYROAXIA.txt"
+    }
+  ]
+}
